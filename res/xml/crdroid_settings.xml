@@ -75,6 +75,12 @@
             android:title="@string/kill_app_longpress_back"
             android:summary="@string/kill_app_longpress_back_summary"/> 
 
+        <!-- Navigation ring targets -->
+        <PreferenceScreen
+            android:key="navring_targets_settings"
+            android:fragment="com.android.settings.crdroid.NavRingTargets"
+            android:title="@string/navring_targets_title" /> 
+
     </PreferenceCategory>
 
 </PreferenceScreen>

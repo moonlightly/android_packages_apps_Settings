@@ -1581,7 +1581,8 @@
 	<!-- crDroid customization -->
 	<activity android:name=".crdroid.crdroidSettings" />
 	<activity android:name=".cyanogenmod.NotificationDrawerStyle" />
-	<activity android:name=".crdroid.RamBar" />	
+	<activity android:name=".crdroid.RamBar" />
+	<activity android:name=".crdroid.NavRingTargets" />	
 
  	<!-- Pseudo-activity used to provide an intent-filter entry point to ass display rotation config -->
         <activity android:name="Settings$ASSRamBarActivity"

@@ -90,4 +90,35 @@
     <string name="flip_qs_tiles_title">Flip tiles</string>
     <string name="flip_qs_tiles_summary">Flips the tiles on touch</string>     
 
+    <!-- Nav Ring Targets -->
+    <string name="navring_targets_title">Ring targets</string>
+    <string name="ring_targets_cat_title">Navigation ring targets</string>
+    <string name="menu_nav_ring_targets_reset">Reset navring targets</string>  
+    <string name="screenshot">Screenshot</string>
+    <string name="open_ime_switcher">Open IME Switcher</string>
+    <string name="kill_app">Kill app</string>
+    <string name="power">Power</string>
+    <string name="custom_app">Custom app</string>
+    <string name="blank">None</string>
+    <string name="none">None</string>
+    <string name="take_screenshot">Take Screenshot</string>
+    <string name="ring_vib">Ring/Vib</string>
+    <string name="ring_silent">Ring/Silent</string>
+    <string name="ring_vib_silent">Ring/Vib/Silent</string>
+    <string name="screen_off">Screen Off</string>
+    <string name="google_now">Google Now / Web search</string>
+    <string name="one_target">1 target</string>
+    <string name="two_targets">2 targets</string>
+    <string name="three_targets">3 targets</string>
+    <string name="four_targets">4 targets</string>
+    <string name="five_targets">5 targets</string> 
+    <string name="title_navring_amount">Number of navring targets</string>
+    <string name="summary_navring_amount">Changing this will reset your current targets</string>
+    <string name="interface_navring_custom_pref_summary">Release on target to launch </string>
+    <string name="interface_navring_pref_default_summary">Tap to select a custom ring target activity</string>
+    <string name="interface_navring_assist_title">Google Now / web search</string>
+    <string name="interface_navring">Ring Targets</string>
+    <string name="navbar_ring">Custom Ring Targets</string>
+    <string name="navring_enable_long">Enable longpress for navring</string> 
+
 </resources>
