@@ -626,10 +626,6 @@ public class Utils {
         return ExtendedPropertiesUtils.isTablet();
     }
 
-    public static boolean isPhone(Context con) {
-        return getScreenType(con) == DEVICE_PHONE;
-    }
-
     public static boolean hasNavigationBar() {
         int value;
         String prop = ExtendedPropertiesUtils.

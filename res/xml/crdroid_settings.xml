@@ -37,12 +37,6 @@
            android:entryValues="@array/pref_low_battery_warning_policy_values"
            android:defaultValue="0" />  
 
-	<!-- Naviagtion ring shortcuts -->
-        <PreferenceScreen
-            android:key="navigation_ring"
-            android:fragment="com.android.settings.crdroid.NavRing"
-            android:title="@string/navigation_ring_title" />
-
 	<!-- Recents RAM bar -->
 	<PreferenceScreen
            android:key="recents_ram_bar"

@@ -29,7 +29,6 @@ public class crdroidSettings extends SettingsPreferenceFragment
     private static final String PREF_CUSTOM_CARRIER_LABEL = "custom_carrier_label";
     private static final String KEY_WAKEUP_WHEN_PLUGGED_UNPLUGGED = "wakeup_when_plugged_unplugged";
     private static final String KEY_LOW_BATTERY_WARNING_POLICY = "pref_low_battery_warning_policy";
-    private static final String KEY_NAVIGATION_RING = "navigation_ring";
     private static final String KEY_RECENTS_RAM_BAR = "recents_ram_bar";   
     private static final String PREF_USE_ALT_RESOLVER = "use_alt_resolver";
     private static final String PREF_NOTIFICATION_SHOW_WIFI_SSID = "notification_show_wifi_ssid";
@@ -45,7 +44,7 @@ public class crdroidSettings extends SettingsPreferenceFragment
     private Preference mRamBar;    
     private CheckBoxPreference mUseAltResolver;
     private CheckBoxPreference mShowWifiName;
-    CheckBoxPreference mFlipQsTiles;  
+    private CheckBoxPreference mFlipQsTiles;  
 
     private String mCustomLabelText = null;  
  
